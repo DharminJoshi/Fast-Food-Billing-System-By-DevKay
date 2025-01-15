@@ -121,7 +121,11 @@ We welcome contributions to improve the Fast Food Billing System. Please follow 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it as per your requirements.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). You are free to share, adapt, and modify the project for non-commercial purposes, provided that you give appropriate credit to the original creator (Dharmin Joshi/DevKay). Commercial use of this project is not permitted.
+
+For more details, see the full license: Creative Commons Attribution-NonCommercial 4.0 International License.
+
+
 
 ---
 
