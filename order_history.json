@@ -1,0 +1,21 @@
+[
+    {
+        "customer": {
+            "name": "10",
+            "phone": "10104"
+        },
+        "timestamp": "2025-01-15 15:32:46",
+        "total": 5200.0,
+        "discount": 0.0,
+        "order": {
+            "Bhaji Pav": {
+                "quantity": 10,
+                "price": 30.0
+            },
+            "Veg. Sandwich": {
+                "quantity": 140,
+                "price": 35.0
+            }
+        }
+    }
+]
