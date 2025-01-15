@@ -147,6 +147,7 @@ For any queries, suggestions, or feedback, feel free to reach out:
 
 - **Developer:** Dharmin Joshi / DevKay
 - **Email:** info.dharmin@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/dharmin-joshi-3bab42232/)
 - **GitHub:** (https://github.com/DharminJoshi)
 
 ---
