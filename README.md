@@ -145,7 +145,7 @@ This project belongs to DharminJoshi/DevKay and is hosted on GitHub.
 
 For any queries, suggestions, or feedback, feel free to reach out:
 
-- **Developer:** Dharmin Joshi
+- **Developer:** Dharmin Joshi / DevKay
 - **Email:** info.dharmin@gmail.com
 - **GitHub:** (https://github.com/DharminJoshi)
 
