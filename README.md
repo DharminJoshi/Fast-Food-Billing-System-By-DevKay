@@ -1,4 +1,4 @@
-# Fast-Food-Billing-System-By-Devkay
+# Fast-Food-Billing-System-By-DevKay
 
 Welcome to the **Fast Food Billing System** repository! This project is designed to streamline and simplify the billing process for fast food outlets. Developed in Python, the software features a user-friendly interface and efficient functionalities to handle orders, calculate totals, and generate bills. It is perfect for small to medium-sized food businesses looking to enhance their operational efficiency.
 
