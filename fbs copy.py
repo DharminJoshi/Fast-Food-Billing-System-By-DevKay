@@ -1,12 +1,24 @@
 """Copyright Disclaimer:
 
-This project, Fast-Food-Billing-System-By-Devkay, is intended for educational and personal use only. All content, including code, images, and resources, are used under the principle of fair use. The project is a non-commercial, open-source endeavor created for learning purposes and is not associated with any official fast-food business or commercial entity.
+Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
 
-All trademarks, logos, and brand names mentioned or used in this project are the property of their respective owners. This project does not claim ownership of any of these trademarks, logos, or brand names.
+Copyright (c) 2025 Dharmin Joshi
 
-The project is provided "as is" without any warranties, express or implied. The creator of this project is not responsible for any direct or indirect consequences arising from its use.
+You are free to:
 
-This project belongs to DharminJoshi/DevKay and is hosted on GitHub."""
+- Share: Copy and redistribute the material in any medium, format, or platform.
+- Adapt: Remix, transform, and build upon the material.
+
+Under the following terms:
+
+- Attribution: You must give appropriate credit to the original creator (Dharmin Joshi/DevKay), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the creator endorses you or your use.
+- NonCommercial: You may not use the material for commercial purposes.
+
+No additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, see the full license: https://creativecommons.org/licenses/by-nc/4.0/"""
 
 
 import tkinter as tk
